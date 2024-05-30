@@ -7,7 +7,9 @@
 
 '''
 
+
 #-----------------solution---------------- 
+
 
 # way1:
 print('Day1 - Python Print Function')
