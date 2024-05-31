@@ -1,0 +1,22 @@
+questions = [
+    {"text": "The capital of France is Paris.", "answer": "True"},
+    {"text": "The chemical symbol for water is H2O.", "answer": "True"},
+    {"text": "Mount Everest is the tallest mountain in the world.", "answer": "True"},
+    {"text": "The Great Wall of China is visible from space.", "answer": "False"},
+    {"text": "There are 50 states in the United States.", "answer": "True"},
+    {"text": "The human body has four lungs.", "answer": "False"},
+    {"text": "The currency of Japan is the Yen.", "answer": "True"},
+    {"text": "Sharks are mammals.", "answer": "False"},
+    {"text": "Lightning never strikes the same place twice.", "answer": "False"},
+    {"text": "Venus is the closest planet to the Sun.", "answer": "False"},
+    {"text": "The Pacific Ocean is the largest ocean on Earth.", "answer": "True"},
+    {"text": "Light travels faster than sound.", "answer": "True"},
+    {"text": "Penguins can fly.", "answer": "False"},
+    {"text": "The human skeleton is made up of 206 bones.", "answer": "True"},
+    {"text": "Albert Einstein developed the theory of relativity.", "answer": "True"},
+    {"text": "Goldfish only have a three-second memory.", "answer": "False"},
+    {"text": "The sun is a star.", "answer": "True"},
+    {"text": "Bats are blind.", "answer": "False"},
+    {"text": "The Amazon River is the longest river in the world.", "answer": "False"},
+    {"text": "Humans share approximately 98% of their DNA with chimpanzees.", "answer": "True"}
+]
